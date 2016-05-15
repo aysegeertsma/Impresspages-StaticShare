@@ -1,0 +1,23 @@
+div.static-share-button a {
+	display: inline-block;
+	width:32px;
+	height:32px;
+	background-image: url('../img/facebook-icon.png');
+	background-size:100% 100%;
+}
+
+div.static-share-button.facebook a {
+	background-image: url('../img/facebook-icon.png');
+}
+div.static-share-button.twitter a {
+	background-image: url('../img/twitter-icon.png');
+}
+div.static-share-button.linkedin a {
+	background-image: url('../img/linkedin-icon.png');
+}
+div.static-share-button.googleplus a {
+	background-image: url('../img/googleplus-icon.png');
+}
+div.static-share-button.hatena a {
+	background-image: url('../img/hatena-icon.png');
+}
